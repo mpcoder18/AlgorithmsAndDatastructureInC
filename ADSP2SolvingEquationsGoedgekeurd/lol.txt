@@ -1,0 +1,2 @@
+
+mainRecog.c, recognizeExp.c, recognizeExp.h zijn de files die in themis moeten en hij werkt
